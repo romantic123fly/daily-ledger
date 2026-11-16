@@ -1,0 +1,17 @@
+# 源数据文件（含个人财务数据，不提交）
+*.xlsx
+~$*.xlsx
+
+# 开发中间产物
+build_seed.py
+seed.json
+seed2.json
+migrate_major.py
+mapping_review.txt
+embed_seed.py
+embed_seed2.py
+check_syntax.js
+verify_seed.js
+inspect_report.txt
+inspect_xlsx.py
+inspect_out.txt

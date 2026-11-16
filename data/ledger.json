@@ -1,0 +1,5269 @@
+{
+  "categories": {
+    "income": [
+      "工资",
+      "理财",
+      "副业收入",
+      "补贴退税",
+      "其他收入"
+    ],
+    "expense": [
+      "住房",
+      "日常生活",
+      "交通出行",
+      "医疗健康",
+      "人情往来",
+      "保险社保",
+      "育儿教育",
+      "数码家电",
+      "休闲娱乐",
+      "其他"
+    ]
+  },
+  "months": {
+    "2023-01": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "14000",
+          "note": "11000+3000"
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "4650",
+          "note": "1380+3270"
+        },
+        {
+          "category": "补贴退税",
+          "sub": "其他红包收入",
+          "amount": "1700",
+          "note": "亚兰姨：宝宝礼钱1000 陈涛：宝宝礼钱200 王旭：宝宝礼钱500"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "5100",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "2500",
+          "note": "休产假"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3500",
+          "note": "3000+500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "妈妈生活费",
+          "amount": "3000",
+          "note": "1000红包+2000月生"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸爸生活费",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租",
+          "amount": "830",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "735",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "淘宝京东拼多多美团",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费、保险",
+          "amount": "150",
+          "note": "69+80"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "少林寺出游",
+          "amount": "600",
+          "note": "门票+索道+吃喝+油费"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人吃喝",
+          "amount": "860",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球充值",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "岳父岳母红包",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "柠柠疫苗",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        }
+      ]
+    },
+    "2023-02": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "10000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微信）",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（支付宝）",
+          "amount": "3050",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-1000",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "3500",
+          "note": "下乡康店"
+        }
+      ],
+      "expense": [
+        {
+          "category": "交通出行",
+          "sub": "汽车油费",
+          "amount": "690",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "新天地物业",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "白酒红酒",
+          "amount": "1100",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "闯红灯罚款",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "修电脑",
+          "amount": "110",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝拍照",
+          "amount": "220",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "抖音快手淘宝拼多多京东",
+          "amount": "680",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费、保险",
+          "amount": "150",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "水卡续费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租",
+          "amount": "830",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "日常吃饭请客",
+          "amount": "1100",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3500",
+          "note": "3000+500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "家里生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "5000",
+          "note": "2000+2200+.."
+        }
+      ]
+    },
+    "2023-03": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "3600",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "451",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "3500",
+          "note": "下乡康店"
+        }
+      ],
+      "expense": [
+        {
+          "category": "交通出行",
+          "sub": "汽车油费",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险养老",
+          "amount": "2000",
+          "note": "年缴"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝支出",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "抖音快手淘宝拼多多京东",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "150",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常吃喝",
+          "amount": "860",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "美发卡",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租",
+          "amount": "830",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "日常吃饭请客",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3500",
+          "note": "3000+500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "家里生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "童年纪儿童摄影",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "柠柠疫苗社保",
+          "amount": "650",
+          "note": "300+350"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        }
+      ]
+    },
+    "2023-04": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "5300",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "330",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "110",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "3500",
+          "note": "下乡康店"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常消费",
+          "amount": "1800",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "汽车油费+罚款",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "礼金+其他",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉+餐椅+预防针",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2023-05": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资（工+奖金）",
+          "amount": "14700",
+          "note": "11000+3700"
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "6100",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "110",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-4300",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "3000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常消费",
+          "amount": "1270",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，保险）",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "广东出差",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "奶粉+宝宝体检+床围",
+          "amount": "1350",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "礼金",
+          "amount": "200",
+          "note": ""
+        }
+      ]
+    },
+    "2023-06": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-600",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包支出",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "3000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常消费",
+          "amount": "1700",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险）",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "陈涛礼金",
+          "amount": "1300",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "收割机",
+          "amount": "280",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉+纸尿裤",
+          "amount": "1000",
+          "note": ""
+        }
+      ]
+    },
+    "2023-07": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "280",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "2200",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包支出",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "7500",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常消费",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝奶粉+纸尿裤",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险）",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "床垫",
+          "amount": "240",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "请老丈人吃饭",
+          "amount": "240",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇买鞋",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "老妈流量电话卡",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "广东出差香港自费",
+          "amount": "400",
+          "note": ""
+        }
+      ]
+    },
+    "2023-08": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-2500",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包支出",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "7500",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1500",
+          "note": "1000+500"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "宝宝奶粉+纸尿裤+看病开药",
+          "amount": "1300",
+          "note": "1000+300"
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险）",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "900",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "大盘鸡",
+          "amount": "120",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "喜马拉雅联合会员",
+          "amount": "240",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "违章",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车险",
+          "amount": "3100",
+          "note": ""
+        }
+      ]
+    },
+    "2023-09": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "1300",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包支出",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "7500",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝奶粉+纸尿裤",
+          "amount": "1050",
+          "note": "800+250"
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险，保养，审车）",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常吃喝支出",
+          "amount": "1700",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "摩托车驾照",
+          "amount": "880",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "甘肃送外婆",
+          "amount": "1000",
+          "note": "700+300"
+        },
+        {
+          "category": "人情往来",
+          "sub": "结婚彩礼",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "公寓押金",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "公寓房租",
+          "amount": "700",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "公寓物业水电",
+          "amount": "350",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "爸妈医保",
+          "amount": "760",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "理财",
+          "amount": "769",
+          "note": ""
+        }
+      ]
+    },
+    "2023-10": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "1020",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "160",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "小荷包支出",
+          "amount": "-1500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "7500",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝奶粉+纸尿裤+疫苗",
+          "amount": "1368",
+          "note": "800+250+368"
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "700",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险）",
+          "amount": "1004",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "2050",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "结婚礼钱",
+          "amount": "7000",
+          "note": "5000+1000+1000"
+        },
+        {
+          "category": "数码家电",
+          "sub": "显示器",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "理财",
+          "amount": "400",
+          "note": ""
+        }
+      ]
+    },
+    "2023-11": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "3090",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-300",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝奶粉+纸尿裤",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "700",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险）+ETC",
+          "amount": "989",
+          "note": "323+326+340"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1900",
+          "note": "1000+900"
+        },
+        {
+          "category": "住房",
+          "sub": "物业费 暖气费",
+          "amount": "4781",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "宝宝周岁宴",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球充值",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "手机k70",
+          "amount": "2500",
+          "note": ""
+        }
+      ]
+    },
+    "2023-12": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝（微+支）",
+          "amount": "5000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "其他平台收入",
+          "amount": "150",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "家人生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝奶粉+纸尿裤",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租水电",
+          "amount": "700",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车（油，险）",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险、话费",
+          "amount": "800",
+          "note": "380+300+100"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1500",
+          "note": "400+1500"
+        },
+        {
+          "category": "数码家电",
+          "sub": "晾衣架",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "肉禽",
+          "amount": "500",
+          "note": ""
+        }
+      ]
+    },
+    "2024-01": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11480",
+          "note": "11000+480(嘉峪关补贴)"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-7452",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": "3000+300（水）"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "京东+拼多多+淘宝",
+          "amount": "1268",
+          "note": "518+200+550（俩球杆）"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人",
+          "amount": "1100",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "王英明结婚",
+          "amount": "1275",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费、保险",
+          "amount": "150",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "530",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "2000",
+          "note": ""
+        }
+      ]
+    },
+    "2024-02": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "19000",
+          "note": "11000+8000"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "6008",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": "2700"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "500",
+          "note": "200+300"
+        },
+        {
+          "category": "保险社保",
+          "sub": "爸妈2024养老保险",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租",
+          "amount": "1818",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人",
+          "amount": "720",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费、保险",
+          "amount": "250",
+          "note": "200+50"
+        },
+        {
+          "category": "日常生活",
+          "sub": "京东+拼多多+淘宝",
+          "amount": "160",
+          "note": "160"
+        },
+        {
+          "category": "住房",
+          "sub": "燃气",
+          "amount": "273",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "946",
+          "note": "513+176+106+100+31+20"
+        },
+        {
+          "category": "人情往来",
+          "sub": "父母红包",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉尿不湿",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "25000",
+          "note": "23500+1500"
+        }
+      ]
+    },
+    "2024-03": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "14070",
+          "note": "11000+2833(电脑补贴第一年)+240(太原)"
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "1350",
+          "note": "0+1350"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "317",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "摩托车",
+          "amount": "10660",
+          "note": "10330+330"
+        },
+        {
+          "category": "日常生活",
+          "sub": "京东+拼多多+淘宝",
+          "amount": "664",
+          "note": "374+90+200"
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "590",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常",
+          "amount": "1190",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费、保险",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "办公笔记本购买",
+          "amount": "8500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "老婆支出",
+          "amount": "1328",
+          "note": "634+353+88+88+59+49+24+31"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "900",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "2000",
+          "note": ""
+        }
+      ]
+    },
+    "2024-04": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "8320",
+          "note": "570+7750"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "1646",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "4193",
+          "note": "退税"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷水电气物业",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "淘宝支出+抖音+拼多多",
+          "amount": "842",
+          "note": "470+210+162"
+        },
+        {
+          "category": "交通出行",
+          "sub": "汽车加油+摩托加油",
+          "amount": "452",
+          "note": "314+138"
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费保险",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "1450",
+          "note": "220+705+232+300"
+        },
+        {
+          "category": "交通出行",
+          "sub": "交警摩托罚款",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州物业",
+          "amount": "212",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "867",
+          "note": "444+132+126+55+110"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2024-05": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11300",
+          "note": "11000+300(成都)"
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信",
+          "amount": "2000",
+          "note": "750+1250"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "1157",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1400",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "淘宝支出+抖音+拼多多+京东",
+          "amount": "470",
+          "note": "470+210+200+513"
+        },
+        {
+          "category": "交通出行",
+          "sub": "汽车加油",
+          "amount": "779",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费保险",
+          "amount": "400",
+          "note": "200+200"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "900",
+          "note": "710+200"
+        },
+        {
+          "category": "保险社保",
+          "sub": "摩托保险",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租",
+          "amount": "1818",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "巩义水电",
+          "amount": "408",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "820",
+          "note": "196+107+105+100+95+83+68+56+10"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "900",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2024-06": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11300",
+          "note": "11000+300(乌鲁木齐)"
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-3143",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "572",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "加油",
+          "amount": "360",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "话费保险",
+          "amount": "460",
+          "note": "360（流量卡手续费）"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "淘宝罚款",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "长辈去世随礼",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "父母吃饭",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "摩托护具",
+          "amount": "150",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "920",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "900",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2024-07": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "350",
+          "note": "100+250"
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "1300",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "2080",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "572",
+          "note": "京东288（滑板车，宝宝雨伞，自拍杆） pdd225（） 淘宝150（）"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇买鞋",
+          "amount": "240",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "妈妈去痘",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "483",
+          "note": "200+283"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球会员",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "燃气",
+          "amount": "263",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "朋友吃饭",
+          "amount": "320",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州物业",
+          "amount": "141",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险+话费",
+          "amount": "244",
+          "note": "144+100"
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "392",
+          "note": "122+270"
+        },
+        {
+          "category": "交通出行",
+          "sub": "电动车",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2024-08": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "14690",
+          "note": "11000+3872(奖金)+120(广州)"
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "3250",
+          "note": "2300+950"
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "185",
+          "note": "87+98"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-4700",
+          "note": "905+820+2975"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "390",
+          "note": "三餐：331 眼药水：59"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "284",
+          "note": "144、140"
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "379",
+          "note": "JD：145 PDD：142 TB：50+42"
+        },
+        {
+          "category": "住房",
+          "sub": "雪松美寓房租物业",
+          "amount": "2031",
+          "note": "1818+213"
+        },
+        {
+          "category": "保险社保",
+          "sub": "汽车商业险",
+          "amount": "2820",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "826",
+          "note": "500+200+61+65"
+        },
+        {
+          "category": "交通出行",
+          "sub": "违章罚款",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "重渡沟出行",
+          "amount": "1275",
+          "note": "油费：450；吃饭零食：260 停车费：65；索道：270 门票：230"
+        },
+        {
+          "category": "其他",
+          "sub": "项目奖金抽公费",
+          "amount": "193",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "其他综合",
+          "amount": "177",
+          "note": "牛肉：100 杨辉烧烤：77"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "730",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "阿姨生病",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "450",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2024-09": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11600",
+          "note": "11000+600(广州3+贵阳7)"
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "430",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "4457",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "6000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常吃喝",
+          "amount": "1400",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "294",
+          "note": "144+150"
+        },
+        {
+          "category": "住房",
+          "sub": "巩义水电（5-8）",
+          "amount": "692",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "698",
+          "note": "jd：304，pdd：74.99，tb：353"
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费+违章罚款+高速ETC",
+          "amount": "863",
+          "note": "500+200+100+63"
+        },
+        {
+          "category": "日常生活",
+          "sub": "服饰鞋子",
+          "amount": "382",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "洛阳应天门古装跟拍",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "丈母娘吃饭",
+          "amount": "184",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "永辉超市",
+          "amount": "127",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "媳妇老师中秋点心",
+          "amount": "140",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "贵阳游玩",
+          "amount": "733",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球",
+          "amount": "107",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "柠柠奶粉",
+          "amount": "800",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "药费",
+          "amount": "1600",
+          "note": ""
+        }
+      ]
+    },
+    "2024-10": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": "11000+60（上海1）"
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "1200",
+          "note": "1000+200"
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "330",
+          "note": "230+100"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "540",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "6000",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "2000",
+          "note": "店铺押金提现"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2700",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "630",
+          "note": "保险：130+360 话费：140"
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "1290",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲+宝宝生病",
+          "amount": "213",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "PMP培训报名",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "陈爽哲结婚",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "荷包个人支出",
+          "amount": "460",
+          "note": "210+250"
+        },
+        {
+          "category": "交通出行",
+          "sub": "汽车汽油+保养+车垫",
+          "amount": "848",
+          "note": "200+300+240+108"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "柠柠生日",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "媳妇手表",
+          "amount": "630",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "柠柠奶粉",
+          "amount": "888",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1740",
+          "note": ""
+        }
+      ]
+    },
+    "2024-11": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "714",
+          "note": "314+400"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "2891",
+          "note": "935+1956"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "5500",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "日常生活",
+          "sub": "妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常吃喝",
+          "amount": "600",
+          "note": "400+200"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "284",
+          "note": "144+140"
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "400",
+          "note": "jd：105 tb：188 pdd：106"
+        },
+        {
+          "category": "保险社保",
+          "sub": "全家医保2025",
+          "amount": "1200",
+          "note": "400*3"
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租+物业",
+          "amount": "2110",
+          "note": "600*3+70*3"
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "520",
+          "note": "320+200"
+        },
+        {
+          "category": "住房",
+          "sub": "巩义暖气费",
+          "amount": "2170",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "淘宝店铺押金",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "丁延庆出借",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "燃气费",
+          "amount": "260",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "水电费",
+          "amount": "290",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "剪头发 卡会员",
+          "amount": "388",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "900",
+          "note": "鞋子180、点读笔170、酸锌钙100"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1500",
+          "note": ""
+        }
+      ]
+    },
+    "2024-12": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "560",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "7400",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "5700",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "900",
+          "note": "出差补贴"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "巩义房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常吃喝",
+          "amount": "1026",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "284",
+          "note": "144+140"
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "661",
+          "note": "300+300+61"
+        },
+        {
+          "category": "日常生活",
+          "sub": "电商支出",
+          "amount": "331",
+          "note": "jd：0 tb：213 pdd：50 dy：68"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "便签VIP",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "偃师吃饭",
+          "amount": "188",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "柠柠奶粉",
+          "amount": "950",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1500",
+          "note": ""
+        }
+      ]
+    },
+    "2025-01": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "34606",
+          "note": "12306+22300"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "5700",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "332",
+          "note": "82+250"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "2200",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷+房租+水电",
+          "amount": "2750",
+          "note": "2500+0+50+200燃气"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "710",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "284",
+          "note": "144(保险)+140(话费)"
+        },
+        {
+          "category": "其他",
+          "sub": "PMP报名",
+          "amount": "3900",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1380",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费+红包",
+          "amount": "2200",
+          "note": "2200+2000"
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "5600",
+          "note": "iphone16 白色"
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "450",
+          "note": "预防针260+衣鞋190"
+        },
+        {
+          "category": "日常生活",
+          "sub": "购物",
+          "amount": "616",
+          "note": "576+40"
+        },
+        {
+          "category": "交通出行",
+          "sub": "交通费",
+          "amount": "1082",
+          "note": "863(油)+200(罚)+19(停)"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "杜甫故里",
+          "amount": "150",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "妈妈回娘家车费",
+          "amount": "460",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "礼金",
+          "amount": "200",
+          "note": "李伟平"
+        },
+        {
+          "category": "日常生活",
+          "sub": "肉肠",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "网易云会员",
+          "amount": "71",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "小荷包",
+          "amount": "600",
+          "note": ""
+        }
+      ]
+    },
+    "2025-02": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11550",
+          "note": "11550"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7000",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "150",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-3700",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷+房租+水电",
+          "amount": "4500",
+          "note": "2500+200+1800"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1070",
+          "note": "370+100+600"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "554",
+          "note": "144(保险)+140(话费)+270（医惠保89*3）"
+        },
+        {
+          "category": "其他",
+          "sub": "小荷包",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "716",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "花周烧烤",
+          "amount": "161",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "交通费",
+          "amount": "1037",
+          "note": "637（汽油)+400(机油)"
+        },
+        {
+          "category": "日常生活",
+          "sub": "衣物鞋子",
+          "amount": "600",
+          "note": "200+300+100"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "干洗会员",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "茶叶",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "电影票",
+          "amount": "107",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "游戏币",
+          "amount": "100",
+          "note": ""
+        }
+      ]
+    },
+    "2025-03": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11800",
+          "note": "11500+300（长沙+沈阳）"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "3400",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "618",
+          "note": "157+461"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-1899",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "4200",
+          "note": "退税4200+电脑补贴（现金2500）"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷+水电",
+          "amount": "2850",
+          "note": "2500+300+50"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1409",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1900",
+          "note": "饭卡1000+900"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "500",
+          "note": "衣物鞋子"
+        },
+        {
+          "category": "日常生活",
+          "sub": "购物",
+          "amount": "317",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "交通费",
+          "amount": "974",
+          "note": "537(油)+200(违)+217(高)+20（停车）"
+        },
+        {
+          "category": "人情往来",
+          "sub": "偃师吃饭",
+          "amount": "380",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "动物园",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "嵩山",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "b站小店保证金",
+          "amount": "100",
+          "note": ""
+        }
+      ]
+    },
+    "2025-04": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11600",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6600",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "179",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "2350",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "5822",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷+水电",
+          "amount": "70",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1500",
+          "note": "820+680"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "奶粉",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "北京出行",
+          "amount": "5586",
+          "note": "机票：1640；高铁：1406 补间交通：475；吃喝：675 住宿：1060；门票：330"
+        },
+        {
+          "category": "保险社保",
+          "sub": "爸妈养老保险",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "500",
+          "note": ""
+        }
+      ]
+    },
+    "2025-05": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "12000",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6700",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "483",
+          "note": "287+196"
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-1050",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "200",
+          "note": "推荐PMP返现"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷+水电",
+          "amount": "4500",
+          "note": "2500+2000"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1000",
+          "note": "500"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": "日杂"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "460",
+          "note": "200+60+200"
+        },
+        {
+          "category": "育儿教育",
+          "sub": "宝宝拍照",
+          "amount": "700",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "燃气费",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "孟津露营+台球费+雪松电费+摩托车保险",
+          "amount": "850",
+          "note": "200+250+200+200"
+        },
+        {
+          "category": "日常生活",
+          "sub": "食用油调料",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "自拍杆+充电宝",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "下水管+衣裤",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "玩具杂项",
+          "amount": "45",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "钙片、铁补剂",
+          "amount": "250",
+          "note": ""
+        }
+      ]
+    },
+    "2025-06": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7674",
+          "note": "3601+3389+684（退税）"
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "303",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "4676",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "妈妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "450",
+          "note": "300（保险)+150(话费)"
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "162",
+          "note": "57+55+50"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "约会",
+          "amount": "177",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "聚餐",
+          "amount": "113",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "灵杰结婚",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "头盔",
+          "amount": "258",
+          "note": ""
+        }
+      ]
+    },
+    "2025-07": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "14770",
+          "note": "11500+3270=14770"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "5200",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "CSDN+B站",
+          "amount": "307",
+          "note": "147+160=307"
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "800",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "妈妈生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "水电费",
+          "amount": "330",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "李鑫结婚",
+          "amount": "1515",
+          "note": "1000+515"
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "程凤江结婚",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "轮胎一对",
+          "amount": "750",
+          "note": ""
+        }
+      ]
+    },
+    "2025-08": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "200",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1200",
+          "note": "1000+200"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "TCL空调",
+          "amount": "1700",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "95",
+          "note": "看病95、体检+拍照74"
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "609",
+          "note": "609"
+        },
+        {
+          "category": "其他",
+          "sub": "联通卡话费预缴",
+          "amount": "180",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "加油",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "焦作团建",
+          "amount": "220",
+          "note": ""
+        }
+      ]
+    },
+    "2025-09": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-3180",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "600",
+          "note": "招聘报酬"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000+200"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "水电费",
+          "amount": "750",
+          "note": "7-8水电费+9月 140"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "固支",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人日常支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "车险+油费+水卡",
+          "amount": "4043",
+          "note": "3143+200+700"
+        },
+        {
+          "category": "住房",
+          "sub": "契税+房租+水电",
+          "amount": "8940",
+          "note": "6800+1820+320"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "虚拟币+折扣牛会员",
+          "amount": "600",
+          "note": "500+100"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "趣多多游戏币",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "登封摘星楼",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "汽车脚垫",
+          "amount": "360",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "开封万岁山",
+          "amount": "1000",
+          "note": "油200+路100+住300+门票300+吃100"
+        }
+      ]
+    },
+    "2025-10": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "9511",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "9400",
+          "note": "小荷包提现"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1650",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "93",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "学费",
+          "amount": "1050",
+          "note": "10-12月学费"
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "1110",
+          "note": "10-12月饭费  实际610，预防针110"
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "小荷包",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "950",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "新乡出行",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "家人医保",
+          "amount": "1200",
+          "note": ""
+        }
+      ]
+    },
+    "2025-11": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7600",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "400",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-8000",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "1500",
+          "note": "招聘报酬"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球充值",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "机油保养轮胎",
+          "amount": "2440",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "电热宝",
+          "amount": "133",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "洗面奶",
+          "amount": "99",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "项链（银）",
+          "amount": "133",
+          "note": ""
+        }
+      ]
+    },
+    "2025-12": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "5600",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-5000",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "600",
+          "note": "出差补贴"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "房租",
+          "amount": "2100",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "衣物",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "个人支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "路星推荐保险",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "leapmotion",
+          "amount": "650",
+          "note": ""
+        }
+      ]
+    },
+    "2026-01": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11500",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "7800",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "700",
+          "note": "出差补贴"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费",
+          "amount": "1000",
+          "note": "1000"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "575",
+          "note": "300+275"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "学费伙食费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "游乐场",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "600",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "电动车电池",
+          "amount": "50",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "红米K90PROMAX",
+          "amount": "2700",
+          "note": ""
+        }
+      ]
+    },
+    "2026-02": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "20613",
+          "note": "5990（年终）+3000（项目）+11500"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6500",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "微信+淘宝",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-1536",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "爸妈生活费+过节费",
+          "amount": "1000",
+          "note": "1000+2000"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150（保险)+150(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": "2200"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "游乐场",
+          "amount": "239",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "600",
+          "note": "600"
+        },
+        {
+          "category": "交通出行",
+          "sub": "发动机蓄电池",
+          "amount": "489",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "菜市场",
+          "amount": "800",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "房租3-5",
+          "amount": "2100",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "奖金部门基金",
+          "amount": "296",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "父亲治疗颈椎",
+          "amount": "210",
+          "note": ""
+        }
+      ]
+    },
+    "2026-03": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11863",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6500",
+          "note": ""
+        },
+        {
+          "category": "补贴退税",
+          "sub": "电脑补贴",
+          "amount": "2550",
+          "note": ""
+        },
+        {
+          "category": "补贴退税",
+          "sub": "退税",
+          "amount": "3600",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "-7837",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "1890",
+          "note": "项目奖金"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "570",
+          "note": "470保险)+100(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": "2200"
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "428",
+          "note": "143+285"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "2500",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "学费伙食费",
+          "amount": "850",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "2100",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球充值",
+          "amount": "500",
+          "note": ""
+        }
+      ]
+    },
+    "2026-04": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "14614",
+          "note": "11863+2800"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6500",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "10800",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "470保险)+100(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": "2200"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "2100",
+          "note": ""
+        },
+        {
+          "category": "数码家电",
+          "sub": "旋转底座",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "明洋百天宴",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "龙潭大峡谷",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "电动车",
+          "amount": "5500",
+          "note": ""
+        }
+      ]
+    },
+    "2026-05": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11629",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7500",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "5500",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "3510",
+          "note": "分红奖金"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "470保险)+100(话费)"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": "2200"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "2100",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "房租物业",
+          "amount": "2100",
+          "note": ""
+        }
+      ]
+    },
+    "2026-06": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "12220",
+          "note": "11520+700"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财",
+          "amount": "880",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150保险+150话费"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": "2200"
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "岳父看病费用",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "台球充值",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "日常请客吃饭",
+          "amount": "1100",
+          "note": "150苏+150苏+50苏+430郑 刘相博+320巩家"
+        },
+        {
+          "category": "交通出行",
+          "sub": "汽车隔音棉总成",
+          "amount": "1150",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "加油",
+          "amount": "500",
+          "note": ""
+        }
+      ]
+    },
+    "2026-07": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "12200",
+          "note": "11500+700"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7000",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "基金理财",
+          "amount": "-6666",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "活钱宝",
+          "amount": "360",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "4880",
+          "note": "项目奖金"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150保险+150话费"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "2200",
+          "note": "2200"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "2000",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "西安游玩",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "640",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "衣架维修",
+          "amount": "180",
+          "note": ""
+        }
+      ]
+    },
+    "2026-08": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11380",
+          "note": "出差补贴 280"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "7200",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "基金ETF",
+          "amount": "3390",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财债券",
+          "amount": "370",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150保险+150话费"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "3400",
+          "note": "1700"
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "540",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "岳母看病",
+          "amount": "3200",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "65",
+          "note": "烫伤药"
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1600",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "752",
+          "note": "678+74"
+        },
+        {
+          "category": "数码家电",
+          "sub": "华为GT7",
+          "amount": "1400",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "巩义物业",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "开封银基水世界",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "江西老妈菜馆",
+          "amount": "250",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "油奶",
+          "amount": "240",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "车险",
+          "amount": "3000",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州电费",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "花周",
+          "amount": "220",
+          "note": ""
+        }
+      ]
+    },
+    "2026-09": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11140",
+          "note": "出差140"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "6700",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "基金ETF",
+          "amount": "-3140",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财债券",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "副业收入",
+          "sub": "b站、csdn",
+          "amount": "3160",
+          "note": ""
+        },
+        {
+          "category": "其他收入",
+          "sub": "其他",
+          "amount": "2000",
+          "note": "千牛的2000押金已退回"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150保险+150话费"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1700",
+          "note": "1700"
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "学费伙食费",
+          "amount": "2440",
+          "note": "1400+1040"
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "44",
+          "note": "看病"
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1300",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "220",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "郑州房租物业",
+          "amount": "1630",
+          "note": "押金一千抵扣"
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "淘宝年卡",
+          "amount": "88",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "抖音消费",
+          "amount": "225",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "京东消费",
+          "amount": "120",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "拼多多消费",
+          "amount": "128",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "嗨皮乐园会员费",
+          "amount": "300",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "回老家烧烤",
+          "amount": "350",
+          "note": ""
+        },
+        {
+          "category": "人情往来",
+          "sub": "和帅飞聚餐",
+          "amount": "122",
+          "note": ""
+        }
+      ]
+    },
+    "2026-10": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "8700",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "基金ETF",
+          "amount": "-7859",
+          "note": ""
+        },
+        {
+          "category": "理财",
+          "sub": "理财债券",
+          "amount": "1000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150保险+150话费"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1700",
+          "note": "1700"
+        },
+        {
+          "category": "住房",
+          "sub": "水电燃气费",
+          "amount": "101",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "老公鞋子",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "育儿教育",
+          "sub": "柠柠生日",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "其他",
+          "sub": "其他",
+          "amount": "243",
+          "note": "预防针"
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "660",
+          "note": "300+300+60"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "父亲体检费",
+          "amount": "380",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "摩托车维修",
+          "amount": "500",
+          "note": "200+120+50+110"
+        },
+        {
+          "category": "日常生活",
+          "sub": "鞋子",
+          "amount": "222",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "老婆裤子",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "休闲娱乐",
+          "sub": "折扣牛充值",
+          "amount": "100",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "裤子",
+          "amount": "200",
+          "note": ""
+        },
+        {
+          "category": "医疗健康",
+          "sub": "张舒苒出生",
+          "amount": "1000",
+          "note": ""
+        }
+      ]
+    },
+    "2026-11": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "个人工资",
+          "amount": "11000",
+          "note": ""
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇工资",
+          "amount": "8000",
+          "note": ""
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "房贷",
+          "amount": "2500",
+          "note": "2500"
+        },
+        {
+          "category": "日常生活",
+          "sub": "生活费",
+          "amount": "1000",
+          "note": ""
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险话费",
+          "amount": "300",
+          "note": "150保险+150话费"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "母亲药费",
+          "amount": "1700",
+          "note": "1700"
+        },
+        {
+          "category": "日常生活",
+          "sub": "媳妇支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "日常生活",
+          "sub": "日常支出",
+          "amount": "1500",
+          "note": ""
+        },
+        {
+          "category": "交通出行",
+          "sub": "油费",
+          "amount": "500",
+          "note": ""
+        },
+        {
+          "category": "住房",
+          "sub": "暖气费",
+          "amount": "2168",
+          "note": ""
+        }
+      ]
+    },
+    "2022-12": {
+      "income": [
+        {
+          "category": "工资",
+          "sub": "工资",
+          "amount": "171000",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "副业收入",
+          "sub": "淘宝收入",
+          "amount": "62200",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "工资",
+          "sub": "媳妇收入",
+          "amount": "48800",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        }
+      ],
+      "expense": [
+        {
+          "category": "住房",
+          "sub": "郑州房租",
+          "amount": "34860",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "人情往来",
+          "sub": "话费随礼日常",
+          "amount": "6800",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "住房",
+          "sub": "巩义物业房贷水电燃气",
+          "amount": "43500",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "保险社保",
+          "sub": "保险",
+          "amount": "5768",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "爸爸看病+生活费",
+          "amount": "24000",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "日常生活",
+          "sub": "家庭生活费",
+          "amount": "10000",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "医疗健康",
+          "sub": "产检生产",
+          "amount": "9000",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "保险社保",
+          "sub": "车+保险保养油记录仪",
+          "amount": "70700",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        },
+        {
+          "category": "其他",
+          "sub": "理财亏损",
+          "amount": "30000",
+          "note": "2022全年汇总（源数据无月度拆分）"
+        }
+      ]
+    }
+  }
+}
