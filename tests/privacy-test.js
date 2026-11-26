@@ -145,6 +145,14 @@ check('页面元素齐全：切换按钮 + 图标 + 文案', () => {
   return 'ok';
 });
 
+check('打码覆盖余额输入框（计划余额 / 实际余额）', () => {
+  if (html.indexOf('id="actualBalance"') < 0) throw new Error('missing #actualBalance');
+  if (html.indexOf('id="planBalance"') < 0) throw new Error('missing #planBalance');
+  if (html.indexOf('[data-privacy="1"] .balance-item input') < 0) throw new Error('missing balance blur rule');
+  if (html.indexOf('[data-privacy="1"] .balance-item input:focus') < 0) throw new Error('missing balance focus rule');
+  return 'balance inputs covered';
+});
+
 let failed = 0;
 for (const [name, ok, info] of results) {
   if (!ok) failed++;
