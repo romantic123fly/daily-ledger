@@ -5,7 +5,7 @@ const vm = require('vm');
 
 const htmlPath = process.argv[2] || path.join(__dirname, '..', 'index.html');
 const html = fs.readFileSync(htmlPath, 'utf8');
-const src = html.match(/<script>([\s\S]*?)<\/script>/)[1];
+const src = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(x => x[1]).find(s => s.indexOf('STORAGE_KEY') >= 0);
 const STORAGE_KEY = 'daily_ledger_data_v3';
 
 function makeEl(sel) {

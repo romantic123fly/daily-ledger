@@ -5,9 +5,9 @@ const path = require('path');
 
 const htmlPath = process.argv[2] || path.join(__dirname, '..', 'index.html');
 const html = fs.readFileSync(htmlPath, 'utf8');
-const m = html.match(/<script>([\s\S]*?)<\/script>/);
-if (!m) { console.error('no script'); process.exit(1); }
-const src = m[1];
+const m = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(x => x[1]);
+const src = m.find(s => s.indexOf('STORAGE_KEY') >= 0);
+if (!src) { console.error('no app script'); process.exit(1); }
 
 function makeEl(sel) {
   const e = {
@@ -26,7 +26,7 @@ function makeEl(sel) {
   e.closest = () => null;
   e.contains = () => false;
   e.focus = () => {}; e.select = () => {}; e.click = () => {}; e.remove = () => {};
-  e.setAttribute = () => {}; e.getAttribute = () => null;
+  e.setAttribute = (k, v) => { if (k.indexOf('data-') === 0) e.dataset[k.slice(5)] = String(v); }; e.getAttribute = () => null;
   e.cloneNode = () => makeEl(sel);
   return e;
 }
@@ -116,6 +116,12 @@ check('同步状态=未配置', () => {
   const t = getEl('#syncStatus').textContent;
   if (t !== '未配置') throw new Error('got ' + JSON.stringify(t));
   return t;
+});
+check('主题已应用到 <html>（默认 跟随系统 + 蓝色）', () => {
+  const ds = sandbox.document.documentElement.dataset;
+  if (ds.theme !== 'light' && ds.theme !== 'dark') throw new Error('theme=' + ds.theme);
+  if (ds.accent !== 'blue') throw new Error('accent=' + ds.accent);
+  return 'theme=' + ds.theme + ', accent=' + ds.accent;
 });
 
 // 取已保存状态
