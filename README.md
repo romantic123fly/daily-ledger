@@ -27,3 +27,14 @@
 首次访问时，点击页面右上角的「本地」状态标签，输入一个 GitHub Personal Access Token（需要 `repo` 权限）即可启用同步；Token 只保存在本浏览器。未配置 Token 时，数据仅保存在浏览器本地。
 
 > 建议：改动较多数据前先用「⋯ 数据 → 导出 JSON 备份」留一份快照，误操作可以用 Ctrl+Z 或导入备份恢复。
+
+## 开发自检
+
+改完 `index.html` 后跑一遍冒烟测试（只用 Node，无需浏览器；用 DOM 桩执行页面内联脚本）：
+
+```bash
+node tests/smoke-test.js     # 首开渲染、算式、粘贴、撤销、基准合计回归（1,282,487 / 948,841）
+node tests/migrate-test.js   # 老数据迁移、删除月份不复活、新用户首开持久化
+```
+
+两脚本都接受可选的 `index.html` 路径参数，默认取仓库根目录的 `index.html`；退出码非 0 表示有用例失败。
