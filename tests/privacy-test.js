@@ -1,4 +1,5 @@
-// 隐私模式（隐藏/显示汇总数字）测试：验证 <html> 上的 data-privacy 切换与 localStorage 持久化
+// 隐私模式（隐藏/显示汇总数字）测试：
+// 开启后数字应被替换成眼睛图标（不再用 CSS 模糊），且状态持久化到 localStorage
 const fs = require('fs');
 const vm = require('vm');
 const path = require('path');
@@ -91,66 +92,83 @@ function runCase(privacyStored) {
     store,
     click: () => btn._fire('click', {}),
     btn,
-    label: () => getEl('#privacyText').textContent,
-    icon: () => getEl('#privacyIcon').textContent
+    text: (sel) => getEl(sel).textContent,
+    html: (sel) => getEl(sel).innerHTML,
+    el: (sel) => getEl(sel)
   };
 }
 
+const EYE = '👁';
 const results = [];
 function check(name, fn) {
   try { const v = fn(); results.push([name, true, v]); }
   catch (e) { results.push([name, false, e.message]); }
 }
+function assert(cond, msg) { if (!cond) throw new Error(msg); }
 
-check('默认关闭：data-privacy=0，按钮文案「隐藏总数」', () => {
+check('默认显示真实数字（data-privacy=0，按钮文案「隐藏总数」）', () => {
   const r = runCase(undefined);
-  if (r.ds.privacy !== '0') throw new Error('data-privacy=' + r.ds.privacy);
-  if (r.btn.getAttribute('aria-pressed') !== 'false') throw new Error('aria-pressed=' + r.btn.getAttribute('aria-pressed'));
-  if (r.label() !== '隐藏总数') throw new Error('label=' + r.label());
-  if (r.icon() !== '👁') throw new Error('icon=' + r.icon());
-  return 'off';
+  assert(r.ds.privacy === '0', 'data-privacy=' + r.ds.privacy);
+  assert(r.btn.getAttribute('aria-pressed') === 'false', 'aria-pressed=' + r.btn.getAttribute('aria-pressed'));
+  assert(r.text('#privacyText') === '隐藏总数', 'label=' + r.text('#privacyText'));
+  assert(r.text('#privacyIcon') === '👁', 'icon=' + r.text('#privacyIcon'));
+  assert(r.text('#sumIncome').indexOf('¥') === 0, 'sumIncome=' + r.text('#sumIncome'));
+  return r.text('#sumIncome');
 });
 
-check('点一下 → 开启并写入 localStorage', () => {
+check('点一下 → 数字换成眼睛图标并写入 localStorage', () => {
   const r = runCase(undefined);
   if (r.click()) throw new Error('click handler threw');
-  if (r.ds.privacy !== '1') throw new Error('data-privacy=' + r.ds.privacy);
-  if (r.btn.getAttribute('aria-pressed') !== 'true') throw new Error('aria-pressed=' + r.btn.getAttribute('aria-pressed'));
-  if (r.store.get('ledger_privacy') !== '1') throw new Error('saved=' + r.store.get('ledger_privacy'));
-  if (r.label() !== '显示总数') throw new Error('label=' + r.label());
-  if (r.icon() !== '🙈') throw new Error('icon=' + r.icon());
-  return 'on';
+  assert(r.ds.privacy === '1', 'data-privacy=' + r.ds.privacy);
+  assert(r.store.get('ledger_privacy') === '1', 'saved=' + r.store.get('ledger_privacy'));
+  assert(r.btn.getAttribute('aria-pressed') === 'true', 'aria-pressed');
+  assert(r.text('#privacyText') === '显示总数', 'label=' + r.text('#privacyText'));
+  assert(r.text('#privacyIcon') === '🙈', 'icon=' + r.text('#privacyIcon'));
+  assert(r.text('#sumIncome') === EYE, 'sumIncome=' + r.text('#sumIncome'));
+  assert(r.text('#sumExpense') === EYE, 'sumExpense=' + r.text('#sumExpense'));
+  assert(r.text('#sumBalance') === EYE, 'sumBalance=' + r.text('#sumBalance'));
+  assert(r.text('#sumDeviation') === EYE, 'sumDeviation=' + r.text('#sumDeviation'));
+  return 'masked';
 });
 
-check('再点一下 → 关闭并保存 0', () => {
+check('年度汇总 / 年度对比 / 趋势图刻度也一起隐藏', () => {
+  const r = runCase('1');
+  assert(r.html('#yearGrid').indexOf(EYE) >= 0, 'yearGrid 未打码');
+  assert(r.html('#yearGrid').indexOf('¥') < 0, 'yearGrid 仍有金额');
+  assert(r.html('#yearTotals').indexOf(EYE) >= 0, 'yearTotals 未打码');
+  assert(r.html('#compareTable').indexOf(EYE) >= 0, 'compareTable 未打码');
+  assert(r.html('#yearBreakdown').indexOf(EYE) >= 0, 'yearBreakdown 未打码');
+  assert(r.html('#yearTrend').indexOf('万') < 0, '趋势图 Y 轴刻度没隐藏');
+  return 'year/compare/trend masked';
+});
+
+check('再点一下 → 恢复真实数字并保存 0', () => {
   const r = runCase('1');
   if (r.click()) throw new Error('click handler threw');
-  if (r.ds.privacy !== '0') throw new Error('data-privacy=' + r.ds.privacy);
-  if (r.store.get('ledger_privacy') !== '0') throw new Error('saved=' + r.store.get('ledger_privacy'));
-  return 'off again';
+  assert(r.ds.privacy === '0', 'data-privacy=' + r.ds.privacy);
+  assert(r.store.get('ledger_privacy') === '0', 'saved=' + r.store.get('ledger_privacy'));
+  assert(r.text('#sumIncome').indexOf('¥') === 0, 'sumIncome=' + r.text('#sumIncome'));
+  assert(r.html('#yearGrid').indexOf(EYE) < 0, 'yearGrid 仍显示眼睛');
+  return r.text('#sumIncome');
 });
 
 check('刷新后保持隐藏状态', () => {
   const r = runCase('1');
-  if (r.ds.privacy !== '1') throw new Error('data-privacy=' + r.ds.privacy);
-  if (r.label() !== '显示总数') throw new Error('label=' + r.label());
+  assert(r.ds.privacy === '1', 'data-privacy=' + r.ds.privacy);
+  assert(r.text('#privacyText') === '显示总数', 'label=' + r.text('#privacyText'));
+  assert(r.text('#sumIncome') === EYE, 'sumIncome=' + r.text('#sumIncome'));
   return 'restored on';
 });
 
-check('页面元素齐全：切换按钮 + 图标 + 文案', () => {
+check('页面元素齐全 + 余额输入框用眼睛遮罩', () => {
   const r = runCase(undefined);
-  if (!r.btn) throw new Error('missing #btnPrivacy');
-  if (!r.label()) throw new Error('missing #privacyText');
-  if (!r.icon()) throw new Error('missing #privacyIcon');
+  assert(r.btn, 'missing #btnPrivacy');
+  assert(html.indexOf('id="actualBalance"') >= 0, 'missing #actualBalance');
+  assert(html.indexOf('id="planBalance"') >= 0, 'missing #planBalance');
+  assert(html.indexOf('class="bal-field"') >= 0, 'missing .bal-field wrapper');
+  assert(html.indexOf('.bal-field::after') >= 0, 'missing .bal-field::after mask');
+  assert(html.indexOf('[data-privacy="1"] .bal-field::after') >= 0, 'missing privacy mask rule');
   return 'ok';
-});
-
-check('打码覆盖余额输入框（计划余额 / 实际余额）', () => {
-  if (html.indexOf('id="actualBalance"') < 0) throw new Error('missing #actualBalance');
-  if (html.indexOf('id="planBalance"') < 0) throw new Error('missing #planBalance');
-  if (html.indexOf('[data-privacy="1"] .balance-item input') < 0) throw new Error('missing balance blur rule');
-  if (html.indexOf('[data-privacy="1"] .balance-item input:focus') < 0) throw new Error('missing balance focus rule');
-  return 'balance inputs covered';
 });
 
 let failed = 0;
