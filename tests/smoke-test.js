@@ -123,6 +123,11 @@ check('主题已应用到 <html>（默认 跟随系统 + 蓝色）', () => {
   if (ds.accent !== 'blue') throw new Error('accent=' + ds.accent);
   return 'theme=' + ds.theme + ', accent=' + ds.accent;
 });
+check('隐藏总数据默认关闭（data-privacy=0）', () => {
+  const ds = sandbox.document.documentElement.dataset;
+  if (ds.privacy !== '0') throw new Error('data-privacy=' + ds.privacy);
+  return 'data-privacy=' + ds.privacy;
+});
 
 // 取已保存状态
 function saved() { const raw = store.get('daily_ledger_data_v3'); return raw ? JSON.parse(raw) : null; }
